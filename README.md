@@ -14,10 +14,18 @@ Once submitted, the account is marked as verified and trading is unlocked. Demon
 
 Step #2 Process Payment
 
+After KYC is complete, users can buy a random AI stock. 
 
+- User clicks *Buy a Random AI Stock for $25*
+- Payment is processed through Stripe (test mode)
+- Upon successful payment, the system randomly selects an AI Infrastructure stock
+- A fractional number of shares is calculated using the live market price from Yahoo Finance
 
+This step represents the funding / payment rail of a brokerage transaction. 
 
+<img width="1338" height="608" alt="image" src="https://github.com/user-attachments/assets/bd7077d1-136f-464b-ac3f-306654db9ec6" />
 
+<img width="1950" height="1028" alt="image" src="https://github.com/user-attachments/assets/ac2cad5a-f3a7-4686-a1a4-86693dab9336" />
 
 
 Step #3 Settlement
