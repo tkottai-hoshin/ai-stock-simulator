@@ -6,6 +6,7 @@ Before any trading can occur, users must complete a simple Know Your Customer (K
 - Email Address
 - Date of birth
 - Country
+- Risk & Fraud Check
 
 Once submitted, the account is marked as verified and trading is unlocked. Demonstrating the identity verification process required by real brokerages. 
 
