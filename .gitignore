@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/purchases.json
+.DS_Store

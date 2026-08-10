@@ -1,0 +1,5 @@
+streamlit
+stripe
+yfinance
+python-dotenv
+pandas
